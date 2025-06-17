@@ -4,7 +4,12 @@ Transform Healthcare Data, Unlock Smarter Decisions
 
 Built with the tools and technologies:
 
-![Python](https://img.shields.io/badge/Python-100.0%25-brightgreen)
+![Python](https://img.shields.io/badge/Python-100.0%25-brightgreen) 
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-100.0%25-brightgreen)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-100.0%25-brightgreen)
+
 
 ## Table of Contents
 - [Overview](#overview)
@@ -52,8 +57,7 @@ cd healthcare-data-pipeline
 ```
 ### Usage
 Open project :
-```
 Average Medicare Payment Per Capita by US State.pbix
 ```
-
+```
 ⬆️ [Return to Top](#)
