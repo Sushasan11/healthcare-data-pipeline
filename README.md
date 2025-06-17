@@ -57,7 +57,6 @@ cd healthcare-data-pipeline
 ```
 ### Usage
 Open project :
+```bash
 Average Medicare Payment Per Capita by US State.pbix
 ```
-```
-⬆️ Return to the top
